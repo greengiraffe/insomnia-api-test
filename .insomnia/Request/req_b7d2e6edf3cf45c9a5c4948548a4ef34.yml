@@ -1,0 +1,26 @@
+_id: req_b7d2e6edf3cf45c9a5c4948548a4ef34
+type: Request
+parentId: wrk_24694e1f95924e20bcd7b1910a28ef48
+modified: 1664892057282
+created: 1664891418099
+url: https://example.com/
+name: Test
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: Test
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_79219132539741dfa8634675c826b10c
+authentication: {}
+metaSortKey: -1664891418099
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
